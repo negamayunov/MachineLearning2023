@@ -1,2 +1,3 @@
-# MachineLearning2023
-Some university study things
+# К третьему октября:
+Доделана домашняя работа №3
+Сделаны 4 и 5
